@@ -1,0 +1,5 @@
+Collecting certifi
+  Using cached certifi-2025.10.5-py3-none-any.whl.metadata (2.5 kB)
+Using cached certifi-2025.10.5-py3-none-any.whl (163 kB)
+Installing collected packages: certifi
+Successfully installed certifi-2025.10.5
